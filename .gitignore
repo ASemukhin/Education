@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+#*.tmp игнорирровать временные файлы
+#Игнорировать каталог idea
+.idea/
+.venv/
